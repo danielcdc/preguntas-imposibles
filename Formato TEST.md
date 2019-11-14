@@ -1,5 +1,7 @@
-#Preguntas Imposibles 
+#Preguntas Imposibles
+
 ##Grupo X
+
 1. Nombre 1
 	-  Pregunta 1:
 		1.  Respuesta correcta 
