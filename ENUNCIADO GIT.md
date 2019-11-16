@@ -1,3 +1,20 @@
+María Jaldón Vargas
+1.- Ejercicio:
+-Crear un fichero indice.txt con el siguiente contenido:
+
+	*Capítulo 1: Introducción a Git
+	*Capítulo 2: Flujo de trabajo básico
+	*Capítulo 3: Repositorios remotos
+
+-Comprobar el estado del repositorio.
+-Añadir el fichero a la zona de staging area.
+-Volver a comprobar una vez más el estado del repositorio.
+-Añadirlo a un repositorio de github
+
+
+
+
+
 Jorge Alonso López
 
 Ejercicio:

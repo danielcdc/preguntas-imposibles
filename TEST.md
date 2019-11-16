@@ -1,3 +1,23 @@
+María Jaldón Vargas
+1. ¿Qué comando es necesario para crear un repositorio?
+ -git status
+ -git add
+ -git init
+ -git config
+
+2. Si deseas obtener una copia de un repositorio Git existente en GitHub, el comando que necesitas es :
+ -git commit
+ -git add
+ -git log
+ -git clone
+3. ¿Cuál es el comando utilizado para listar los cambios (commits) que han producido en el repositorio?
+ -git init
+ -git status
+ -git tag
+ -git log
+
+
+
 Jorge Alonso López
 
 1 ¿Desde qué tipos de repositorios se puede trabajar en Git?  
