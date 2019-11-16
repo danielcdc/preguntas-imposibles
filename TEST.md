@@ -1,3 +1,20 @@
+## Antonio González
+ 1. ¿Como se ve la versión de git?
+	* git version
+	* git status
+	* git log
+	* git commit
+ 2. ¿Cómo se comitea con mensaje largo?
+	* git commit 
+	* git commit -m
+	* git commit -long_message
+	* git commit -long
+ 3. ¿Cómo se añade contenido a la staging área?
+ 	* git commit
+	* git pull 
+	* git add
+	* git push
+
 María Jaldón Vargas
 1. ¿Qué comando es necesario para crear un repositorio?
  -git status
