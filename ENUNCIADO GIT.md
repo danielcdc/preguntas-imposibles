@@ -1,3 +1,13 @@
+## Antonio González Rodríguez
+
+Ejercicio:
+-Crea un repositorio nuevo en GitHub y añade un README.
+-Clónalo en local y crea dos carpetas, Carpeta1 y Carpeta2.
+-Dentro de cada carpeta crea dos archivos .txt, Archivo1.txt y Archivo2.txt.
+-Introduce algún texto en cada archivo.
+-Haz commit en cada vez que hagas algún cambio. En cada carpeta debe haber un commit con mensaje largo y otro con mensaje corto.
+-Pushea los cambios SÓLO UNA  VEZ.	
+
 María Jaldón Vargas
 1.- Ejercicio:
 -Crear un fichero indice.txt con el siguiente contenido:
