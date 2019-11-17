@@ -129,3 +129,17 @@ e)	Crear el fichero README.md añadiéndole información adecuada sobre el programa
 https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore o alguno similar.
 Cada vez que creéis y modifiquéis un documento debéis confirmar los cambios con un mensaje adecuado y subirlos.
 
+Francisco Javier García Lara
+
+Vamos a hacer una agenda de clase, lo haremos durante una semana para ello tendras que crear  un repositorio en github 
+y clonarlo y crear 5 carpetas cuyos nombre sean los dias de la semana de lunes a viernes y tendras que ir rellenado 
+los distintos dias de la semana con tareas que tendras que inventarte cada carpeta tendra un fichero .txt que se 
+llamara "Tarea Diaria"  que es lo que iremos modificando no tiene que ser de todas las horas de las asignaturas pero 
+por lo menos que contenga 3 commit y 1 push por dia cada dia por ejemplo sera algo parecido a lo siguiente:
+
+Carpeta Lunes
+	Fichero "Tarea diaria"
+		Base de datos: hacer el ejercicio 1 y 2 del boletin 2
+		Programación: ver la peli Matrix
+		Entorno de desarrollo: Modificar lo hecho en clase y pushearlo
+		

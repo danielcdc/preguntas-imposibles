@@ -235,3 +235,22 @@ AINARA GIL EGEA
 	b)Git push
 	c)Git log
 	d)Git commit 
+
+Francisco Javier Garcia Lara
+1.	¿Para confirmar los cambios del git commit que tenemos que escribir para confirmar el commit?
+	- :wq
+	- :aq
+	- :exit
+	- :!aq	
+2.	Para descargar en local los cambios hechos, ¿qué comando usamos?
+	- Git pull
+	- Git clone
+	- Git status
+	- Git update
+3.	¿Para que sirven las ramas?	
+	- Para poder trabajar en paralelo con otro compañero y que no haya conflicto evitando así los juicios por combate a la hora a la hora del push
+	- Para poder añadir a nuevos colaboradores
+	- Para commitear sin conflicto
+	- Fue resultado de una noche de fiesta y todavía se le busca utilidad
+
+
