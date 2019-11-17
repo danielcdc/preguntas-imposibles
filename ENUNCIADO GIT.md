@@ -154,3 +154,13 @@ Fernando Carrascal Gallego
 -Se guardarán los cambios y se hará un commit detallado donde se indique todo lo que se ha hecho.
 -Haz push siempre que hagas commit.
 
+Sergio Ortiz Molde
+
+- Crea un repositorio llamado PrácticaGIT.
+- A continuación, ya habiendo clonado el repositorio, creamos una carpeta que contenga un archivo html de nombre “ApellidosyNombre.html”.
+- Hacemos un commit inicial con un comentario corto que sea: “Primer commit”.
+- Modificamos el contenido del archivo html como queramos.
+- Después, creamos un archivo README.md fuera de la carpeta que hemos creado y commiteamos con un comentario corto a decisión propia.
+- Por último, modificamos el contenido del archivo README.md como querámos y hacemos un último commit con un comentario largo donde se pongas tus apellidos y tu nombre y una lista de “cambios” en los archivos html y README (es decir, comentar todo lo que has hecho hasta ahora en los archivos).
+
+----IMPORTANTE: Cada vez que ponga “Commitear” o “Commit” se deberá PUSHEAR los cambios.---
