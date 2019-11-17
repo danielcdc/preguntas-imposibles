@@ -165,6 +165,7 @@ Sergio Ortiz Molde
 
 ----IMPORTANTE: Cada vez que ponga “Commitear” o “Commit” se deberá PUSHEAR los cambios.---
 
+<<<<<<< HEAD
 Cayetano García Martin
 
 -Crea un nuevo repositorio git llamado Ejercicio_Git añadimos el archvo ignore de java
@@ -176,3 +177,14 @@ y hacemos push
 realizamos un commit "proyecto acabado" y hacemos push
 -argumentamos todo en readme sobre el programa
 
+=======
+Fco Javier Mateos Guillén
+- Crea un repositorio en GitHub llamado EjercicioGit. No debe tener un "README.md" pero si un ".gitignore".
+- Clona el repositorio en local y añade una carpeta llamada "Carpeta1".
+- Dentro de la carpeta añade un fichero con extensión ".txt" en el que introducirás tu nombre y apellidos
+- Haz un commit con el siguiente mensaje: "Creación de Carpeta1"
+- Pushea los cambios
+- Crea ahora el fichero README.md y en él escribe  lo siguiente: "Ejercicio de Git propuesto por mis compañeros. En este repositorio hay una carpeta que contiene un fichero .txt con el nombre de la persona que realizó el ejercicio"
+- Para finalizar confirma los cambios y pushea.
+NOTA: LOS COMMIT DEBEN SER APROPIADOS DEPENDIENDO DE LA CANTIDAD DE TEXTO INTRODUCIDA EN CADA UNO (NO PUEDEN SER LOS DOS EL MISMO TIPO DE COMMIT).
+>>>>>>> 472a483c8a24e80ce19951e6daa88003f8a225ce

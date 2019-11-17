@@ -294,6 +294,27 @@ Sergio Ortiz Molde
 	c.Tener acceso por SSH o HTML al repositorio.
 	d.Todas las respuestas son correctas.
 
+
+Francisco Javier Mateos Guillén
+
+1. ¿Dónde se envían los archivos al ejecutar el comando "git add ."?
+	- A la Staging Area
+	- A la papelera de reciclaje
+	- Ninguna de las anteriores es correcta
+	- A GitHub
+
+2. ¿Con qué comando puedes sacar un archivo de la Staging Area?
+	- git rm
+	- git add ..
+	- git -add .
+	- git extract
+3. ¿Cuál es el orden correcto de estos comandos si lo que pretendo es guardar los cambios en un repositorio y subirlos a GitHub?
+	- git add . / git commit / git push
+	- git push / git commit / git add .
+	- git commit / git add . / git push
+	- git add . / git push / git commit
+
+
 Cayetano García Martín
 
 1 Lista todos los registros de cambios disponibles.
@@ -308,4 +329,3 @@ Git update
 1. Git es un software de control de versiones centralizado.
 Falso
 Verdadero
-
