@@ -253,4 +253,23 @@ Francisco Javier Garcia Lara
 	- Para commitear sin conflicto
 	- Fue resultado de una noche de fiesta y todavía se le busca utilidad
 
+Fernando Carrascal Gallego
+
+1 ¿Qué comando utilizamos en Git para saber si tenemos algo que añadir a la stagging area o listo para hacer commit?
+	*git status
+	*git log
+	*git init
+	*git stage
+
+2 ¿Cuál de estas no es una ventaja de los sistemas de control de versiones?
+	*Posibilidad de editar simultáneamente el mismo archivo viendo los cambios en tiempo real.
+	*Poder comparar versiones, viendo cuales han sido los cambios realizados.
+	*Crear distintas ramas del proyecto. 
+	*Regresar a una versión anterior cuando lo que hemos desarrollado no nos ha dado los resultados esperados.
+
+3 ¿Cuál es el método más recomendado para solucionar los conflictos entre dos versiones del mismo archivo?
+	*Mezclar ambas versiones en una nueva
+	*Descartar nuestros cambios locales
+	*Descartar los cambios existentes en el repositorio
+	*Ninguno de los tres métodos es recomendable
 
