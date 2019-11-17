@@ -105,3 +105,14 @@ y un "ENUNCIADO.md" para subir un ejercicio completo sobre la creación de un rep
 -Guarda el repositorio en local, súbelo actualizado a github y avisa a los de la clase para que se descarguen 
 el repositorio en su dispositivo local, cuelguen sus ejercicios y vayan guardando los cambios y subiéndolos a github.
 <><><><><><><><><><><><><><><><><><><><><><><><>
+
+
+PABLO GONZÁLEZ GONZÁLEZ
+
+Haremos un resumen de todo lo que llevamos de git siguiendo estos pasos:
+	1) Crea un nuevo repositorio llamado GIT-PRO. Créalo con .gitignore y un README.md que se modificará más tarde.
+	2) Clona el repositorio
+	3) Crea un archivo hmtl, donde pongas todo lo que has aprendido en este tema
+	4) Crea un archivo .md y redacta ahí la lista de comandos que te sabes de memoria *SIN MIRAR EN LAS CHULETAS*
+	5) Escribe en el README un resumen de lo que has hecho en este ejercicio
+		ATENTION: cada vez que pases de un paso, debes realizar  un commit and push, siempre que se pueda. 
