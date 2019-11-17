@@ -223,3 +223,13 @@ Ejercicio
 - El colaborador debe elaborar el archvo Unidad3 y Unidad4, debe elaborar un resumen de ambas unidades
 - El propietaio debe añadir al resumen Unidad3 y Unidad4 ejemplos 
 
+Manuel Caro Delgado
+
+-Cree un nuevo repositorio llamado ejercicio-de-git
+-Alli crearas tres archivos vacios
+-Ahora haras en ciclos, edita uno y tras eso añadelo y comitealo pero no todos al mismo tiempo
+-Al final del ejercicio deberan quedar tres commit, uno de cada ump de los archivos
+-pushealo todo
+-borra todos los archivos
+-has pull para recuperarlos
+

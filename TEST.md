@@ -391,3 +391,33 @@ Verdadero
 - Esc
 - Ctrl+q
 
+Manuel Caro Delgado
+
+1. ¿Como se clona un directorio?
+
+-git clone
+-clone git
+-add clone
+-git clone -m
+
+2. ¿Como se añade un archivo al standing area?
+
+-git add
+-git clone
+-add git
+-git añading
+
+3. ¿como se traen los cambios del repositorio?
+
+-dowload repository
+-git pull
+-git push
+-git extract
+
+4. ¿Donde estan localizado nuestros repositorios?
+
+ -github
+-digitalOcean
+-Facebook
+-cmder
+
