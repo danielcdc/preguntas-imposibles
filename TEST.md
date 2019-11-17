@@ -1,3 +1,4 @@
+
 ## Antonio González
  1. ¿Como se ve la versión de git?
 	* git version
@@ -350,3 +351,21 @@ Git update
 1. Git es un software de control de versiones centralizado.
 Falso
 Verdadero
+
+## Beatriz García Ruiz-Adame
+
+1. ¿Qué comando se utiliza para iniciar un repositorio?
+	* git pull
+	* git init
+	* git push
+	* Ninguna es correcta
+2. ¿Para que utilizamos el comando git status?
+	* Iniciar repositio
+	* Clonar repositorio
+	* Añadir comentarios
+	* Ver estado
+3. ¿Qué comando utilizaos para clonar un repositorio?
+	* git log
+	* git clone
+	* git push
+	* Ninguna es correcta
