@@ -369,3 +369,25 @@ Verdadero
 	* git clone
 	* git push
 	* Ninguna es correcta
+
+
+## María Macías Padilla
+
+1- Cuando escribimos “git add . ” ¿Qué significa el punto?
+- Hace referencia al directorio que estamos, a sí mismo.
+- Añadimos el punto final al mensaje insertado en el último commit.
+- Para eliminar lo último que hemos añadido al repositorio.
+- Eliminar los comentarios del último commit que hemos hecho.
+
+2- Si necesitamos solicitar ayuda sobre las configuraciones, ¿qué comando debemos escribir?
+- Git help config 
+- help
+- git config 
+- help config
+
+3- ¿Qué debemos escribir para parar algo que está ejecutándose?
+- q
+- stop
+- Esc
+- Ctrl+q
+

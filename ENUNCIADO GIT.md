@@ -191,7 +191,7 @@ y hacemos push
 realizamos un commit "proyecto acabado" y hacemos push
 -argumentamos todo en readme sobre el programa
 
-=======
+
 Fco Javier Mateos Guillén
 - Crea un repositorio en GitHub llamado EjercicioGit. No debe tener un "README.md" pero si un ".gitignore".
 - Clona el repositorio en local y añade una carpeta llamada "Carpeta1".
@@ -201,4 +201,25 @@ Fco Javier Mateos Guillén
 - Crea ahora el fichero README.md y en él escribe  lo siguiente: "Ejercicio de Git propuesto por mis compañeros. En este repositorio hay una carpeta que contiene un fichero .txt con el nombre de la persona que realizó el ejercicio"
 - Para finalizar confirma los cambios y pushea.
 NOTA: LOS COMMIT DEBEN SER APROPIADOS DEPENDIENDO DE LA CANTIDAD DE TEXTO INTRODUCIDA EN CADA UNO (NO PUEDEN SER LOS DOS EL MISMO TIPO DE COMMIT).
->>>>>>> 472a483c8a24e80ce19951e6daa88003f8a225ce
+
+
+María Macías Padilla
+
+   Ejercicio propuesto ED.
+a) Crea un nuevo repositorio vacío en github, llamado Notas1T. 
+b) Clona el repositorio vacío en tu ordenador.
+c) Añade un fichero README.md 
+d) Edita el fichero README.md y añade la información que va a incluir tu repositorio: “Desglose notas primer trimestre”
+e) Confirma los cambios del fichero y añade un commit, con el mensaje “First commit”.
+f) rea un nuevo directorio, con el nombre de una de las asignaturas que estas cursando actualmente.
+g) Crea un nuevo fichero que se llame nombreAsignatura.txt
+h) Añade un nuevo commit, con el mensaje “Notas Nombre Asignatura”.
+i) En el fichero añade las notas de cada examen realizado en dicha asignatura.
+j) Confirma los cambios con un mensaje de commit adecuado. Después, repite lo anterior con las asignaturas restantes que estás cursando.
+k) Confirma los cambios finales.
+   NOTA: Cada vez que confirmes, debe pushear los cambios al repositorio.
+
+
+
+
+
