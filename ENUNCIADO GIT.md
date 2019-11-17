@@ -164,3 +164,15 @@ Sergio Ortiz Molde
 - Por último, modificamos el contenido del archivo README.md como querámos y hacemos un último commit con un comentario largo donde se pongas tus apellidos y tu nombre y una lista de “cambios” en los archivos html y README (es decir, comentar todo lo que has hecho hasta ahora en los archivos).
 
 ----IMPORTANTE: Cada vez que ponga “Commitear” o “Commit” se deberá PUSHEAR los cambios.---
+
+Cayetano García Martin
+
+-Crea un nuevo repositorio git llamado Ejercicio_Git añadimos el archvo ignore de java
+-una vez creado copiaremos el ignore de eclipse y realizamos un commit "repositorio listo"
+pero no pusheamos 
+-Ahora creamos un proyecto de eclipse cualquiera y volvemos a commitear "Creacion del proyecto"
+y hacemos push
+-Una vez pusheado escribimos el tipico hola mundo y guardamos todos los cambios y 
+realizamos un commit "proyecto acabado" y hacemos push
+-argumentamos todo en readme sobre el programa
+

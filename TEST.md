@@ -294,3 +294,18 @@ Sergio Ortiz Molde
 	c.Tener acceso por SSH o HTML al repositorio.
 	d.Todas las respuestas son correctas.
 
+Cayetano García Martín
+
+1 Lista todos los registros de cambios disponibles.
+ git branch
+ git status
+ git log
+2 Una vez ya tenemos el repocitorio en local y queremos bajar los cambios hechos, ¿qué comando usamos?
+Git pull
+Git clone
+Git status
+Git update
+1. Git es un software de control de versiones centralizado.
+Falso
+Verdadero
+
