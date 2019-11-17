@@ -190,3 +190,23 @@ en algo o no. ¿Cómo lo miro?
 *git push
 *git info --"nombreRepositorio"
 *git log
+
+PABLO GONZÁLEZ GONZÁLEZ
+
+1. ¿Qué haces cuando quieres realizar un commit con un comentario largo?
+	* git commit -m "comentario"
+	* git commit
+	* git commit -l 
+	* git commit ""
+
+2. ¿Cuáles son los pasos para subir los proyectos Javas a tu repositorio de GitHub?
+	* commit and push
+	* add to index and push
+	* add to index, commit
+	* add to index, commit and push
+
+3. ¿Qué maneras son correctas para añadir archivos al staging area?
+	* git add .
+	* git add "nombrerchivo"
+	* Todas son correctas
+	* Todas son incorrectas
