@@ -116,3 +116,23 @@ V-git config --list
 -git config -all
 -git config --global
 -git config -global
+
+
+## Teresa Díaz Ayuga
+1. ¿Cuál es el comando para ver los commits del repositorio en una sola línea?
+	* git log -oneline
+	* git log
+	* git status
+	* git help
+
+2. Si vamos a hacer push y no nos deja porque no están actualizados los ficheros, ¿qué tenemos que hacer primero?
+	* git pull
+	* git add
+	* git commit
+	* git init
+
+3. ¿Qué comando se usa papara añadir todos los ficheros de un repositorio?
+	* git add .
+	* git add
+	* git add fichero
+	* git add --fichero

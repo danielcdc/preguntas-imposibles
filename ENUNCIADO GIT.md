@@ -57,3 +57,18 @@ en la búsqueda de información.
 
 Carlos González Lozano
 Crea  un repositorio remoto, clonalo en un nuevo directorio, incluye un gitignore que excluya los jpg, y añade al repositorio un jpg y un png, finalmente haz un push, y obseva los resultados en github.
+
+
+## Teresa Díaz Ayuga
+
+Ejercicio:
+Cada vez que hagas commit tienes que hacer push.
+1. Crea un repositorio en GitHub llamado mi-cantante-favorito con el fichero README.md.
+2. Clona el repositorio en local.
+3. Crea un archivo .html que se llame como tu cantante favorito.
+4. Haz commit con un mensaje corto.
+5. Abre el archivo y crea un mini web con información de tu cantante favorito (nombre, un párrafo con su bibliografía).
+6. Haz commit con un mensaje largo en el editor.
+7. Añade otro párrafor a la web con la discografía del cantante.
+8. Subelo todo al repositorio remoto.
+9. Por último, añade una foto del cantante a la web y confirma los cambios.
