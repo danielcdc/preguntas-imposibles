@@ -1,3 +1,17 @@
+--BEATRIZ GARCIA RUIZ-ADAME
+
+Ejercicio
+
+- Crear repositorio nuevo en GitHub
+- Dar permiso como colaborador a tu compañero/a
+- Crea un fichero README.md, añadiendo algo de información sobre el repositorio.
+- Añade al repositorio un fichero .gitignore, con el contenido de https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore o alguno similar.
+- El claborador debe crear una carpeta con el nombre de BASE DE DATO
+- El propietario debe añadir a la carpeta BASE DE DATOS un tres archivos.txt con los siguientes nombres: Indice, Unidad3 y Unidad4
+- El propietario debe elaborar el archivo indice, en donde debe aparecer el indice del tamario del módulo de BASE DE DATOS
+- El colaborador debe elaborar el archvo Unidad3 y Unidad4, debe elaborar un resumen de ambas unidades
+- El propietaio debe añadir al resumen Unidad3 y Unidad4 ejemplos 
+
 ## Antonio González Rodríguez
 
 Ejercicio:
