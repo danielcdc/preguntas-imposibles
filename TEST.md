@@ -421,3 +421,19 @@ Manuel Caro Delgado
 -Facebook
 -cmder
 
+Alejandro Vidal Marín
+	-  Si de una version a otra no se producen cambios en un archivo git..:
+		1.  Genera un enlace al archivo de la versión anterior.
+		2.  Borra el archivo.
+		3.  Genera un nuevo fichero.
+		4.  Hace una copia del fichero en la nueva versión.
+	-  ¿Cuál de las siguientes afirmaciones es correcta sobre Git?:
+		1.  Hace Instantaneas. 
+		2.  Hace copia diferenciales.
+		3.  Git es igual que los VCSs anteriores pero con algunas pocas mejoras.
+		4.  Guarda un nuevo fichero siempre que se hace una nueva versión.
+	- ¿Cuál de estos no es un estado de Git?:
+		1. Hace Instantaneas.
+		2. Hace copia diferenciales.
+		3. Git es igual que los VCSs anteriores pero con algunas pocas mejoras.
+		4. Guarda un nuevo fichero siempre que se hace una nueva versión

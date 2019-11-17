@@ -233,3 +233,8 @@ Manuel Caro Delgado
 -borra todos los archivos
 -has pull para recuperarlos
 
+Alejandro Vidal Marín
+-Crea un repositorio privado de nombre "Chistes-Pa-Rafa" con readme desde github.
+-Añade a tu compañero de al lado como colaborador.
+-Haced 3 chistes cada uno despues de cada chiste confirmar los cambios, en el mensaje del commit tendra que escribirse un titulo para el chiste.
+-En el commit final el colaborador (que no creó el repositorio) editara el archivo README.md con los nombres en negrita de los dos integrantes.
