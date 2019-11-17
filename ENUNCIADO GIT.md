@@ -143,3 +143,14 @@ Carpeta Lunes
 		Programación: ver la peli Matrix
 		Entorno de desarrollo: Modificar lo hecho en clase y pushearlo
 		
+
+Fernando Carrascal Gallego 
+
+-Crea con tu usuario en Github un nuevo repositorio que se llame comidas con un archivo README.md y clonalo en tu ordenador.
+-Abre el archivo README.md y escribe en él cuáles son tus comidas favoritas, guarda los cambios y haz commit con un mensaje sencillo.
+-Crea una carpeta que se llame comidas y otra que se llame fotos.
+-Dentro de la carpeta comida crearás un html para cada comida en el que la describas un poco y pongas una foto de cada una.
+-Las fotos se guardarán en la carpeta fotos.
+-Se guardarán los cambios y se hará un commit detallado donde se indique todo lo que se ha hecho.
+-Haz push siempre que hagas commit.
+
