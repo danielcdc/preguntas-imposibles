@@ -58,6 +58,7 @@ en la búsqueda de información.
 Carlos González Lozano
 Crea  un repositorio remoto, clonalo en un nuevo directorio, incluye un gitignore que excluya los jpg, y añade al repositorio un jpg y un png, finalmente haz un push, y obseva los resultados en github.
 
+<<<<<<< HEAD
 ## Alejandro Ramírez Ramos
 Necesitamos crear un repositorio para hacer esta actividad de clase que ha mandado Luismi. Para ello:
 
@@ -72,3 +73,35 @@ y un "Formato TEST.md" donde pongas un ejemplo de las preguntas test que hay que
 y un "ENUNCIADO.md" para subir un ejercicio completo sobre la creación de un repositorio de git.
 -Guarda el repositorio en local, súbelo actualizado a github y avisa a los de la clase para que se descarguen 
 el repositorio en su dispositivo local, cuelguen sus ejercicios y vayan guardando los cambios y subiéndolos a github.
+=======
+
+## Teresa Díaz Ayuga
+
+Ejercicio:
+Cada vez que hagas commit tienes que hacer push.
+1. Crea un repositorio en GitHub llamado mi-cantante-favorito con el fichero README.md.
+2. Clona el repositorio en local.
+3. Crea un archivo .html que se llame como tu cantante favorito.
+4. Haz commit con un mensaje corto.
+5. Abre el archivo y crea un mini web con información de tu cantante favorito (nombre, un párrafo con su bibliografía).
+6. Haz commit con un mensaje largo en el editor.
+7. Añade otro párrafor a la web con la discografía del cantante.
+8. Subelo todo al repositorio remoto.
+9. Por último, añade una foto del cantante a la web y confirma los cambios.
+>>>>>>> b702c735ff593a2b706ca4742e00c6df7968820d
+
+## Alejandro Ramírez Ramos
+Necesitamos crear un repositorio para hacer esta actividad de clase que ha mandado Luismi. Para ello:
+
+-Crea un repositorio en github llamado PREGUNTAS-IMPOSIBLES
+-Clona el repositorio en tu sistema local
+-Crea un archivo .gitignore con las mismas limitaciones de los repositorios anteriores hechos en clase
+-Crea un "README.md" en caso de que haya que anunciar algo importante para que los demás lo vean, haz un commit y sube
+lo que tengas a github.
+-Crea un "Formato ENUNCIADO.md" donde pongas un ejemplo del ejercicio que hay que hacer de git
+y un "Formato TEST.md" donde pongas un ejemplo de las preguntas test que hay que hacer.
+-Por último, crea un archivo "TEST.md" donde pongas tus 3 preguntas test sobre git con 4 respuestas cada una
+y un "ENUNCIADO.md" para subir un ejercicio completo sobre la creación de un repositorio de git.
+-Guarda el repositorio en local, súbelo actualizado a github y avisa a los de la clase para que se descarguen 
+el repositorio en su dispositivo local, cuelguen sus ejercicios y vayan guardando los cambios y subiéndolos a github.
+<><><><><><><><><><><><><><><><><><><><><><><><>

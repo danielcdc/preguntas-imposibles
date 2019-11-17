@@ -117,6 +117,54 @@ V-git config --list
 -git config --global
 -git config -global
 
+<<<<<<< HEAD
+##Alejandro Ramírez Ramos
+
+1.-Creo que he configurado mal mi usuario de git en cmander. ¿Cómo lo compruebo?
+
+*git config --global user.name "user"
+*git status
+*git config --user
+*git config --list
+
+2.-Este fin de semana he estado sin internet hasta hoy Lunes. El ordenador lleva encendido desde el viernes
+porque no me acuerdo de los comandos que tengo que poner para guardarlos y subirlos a github. ¿Cuáles eran?
+(los ";" son separadores de comandos)
+
+*git add . ; git commit ; git pull ;
+*git commit ; git push ;
+*git pull --all ;
+*git add . ; git commit ; git push ;
+
+3.-Mi amigo Luis estaba trabajando conmigo en un repositorio de git, y no sé si esta mañana ha hecho cambios
+en algo o no. ¿Cómo lo miro?
+
+*git pull
+*git push
+*git info --"nombreRepositorio"
+*git log
+=======
+
+## Teresa Díaz Ayuga
+1. ¿Cuál es el comando para ver los commits del repositorio en una sola línea?
+	* git log -oneline
+	* git log
+	* git status
+	* git help
+
+2. Si vamos a hacer push y no nos deja porque no están actualizados los ficheros, ¿qué tenemos que hacer primero?
+	* git pull
+	* git add
+	* git commit
+	* git init
+
+3. ¿Qué comando se usa papara añadir todos los ficheros de un repositorio?
+	* git add .
+	* git add
+	* git add fichero
+	* git add --fichero
+>>>>>>> b702c735ff593a2b706ca4742e00c6df7968820d
+
 ##Alejandro Ramírez Ramos
 
 1.-Creo que he configurado mal mi usuario de git en cmander. ¿Cómo lo compruebo?
