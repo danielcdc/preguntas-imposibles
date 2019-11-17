@@ -116,3 +116,29 @@ V-git config --list
 -git config -all
 -git config --global
 -git config -global
+
+##Alejandro Ramírez Ramos
+
+1.-Creo que he configurado mal mi usuario de git en cmander. ¿Cómo lo compruebo?
+
+*git config --global user.name "user"
+*git status
+*git config --user
+*git config --list
+
+2.-Este fin de semana he estado sin internet hasta hoy Lunes. El ordenador lleva encendido desde el viernes
+porque no me acuerdo de los comandos que tengo que poner para guardarlos y subirlos a github. ¿Cuáles eran?
+(los ";" son separadores de comandos)
+
+*git add . ; git commit ; git pull ;
+*git commit ; git push ;
+*git pull --all ;
+*git add . ; git commit ; git push ;
+
+3.-Mi amigo Luis estaba trabajando conmigo en un repositorio de git, y no sé si esta mañana ha hecho cambios
+en algo o no. ¿Cómo lo miro?
+
+*git pull
+*git push
+*git info --"nombreRepositorio"
+*git log

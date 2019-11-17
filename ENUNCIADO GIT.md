@@ -57,3 +57,18 @@ en la búsqueda de información.
 
 Carlos González Lozano
 Crea  un repositorio remoto, clonalo en un nuevo directorio, incluye un gitignore que excluya los jpg, y añade al repositorio un jpg y un png, finalmente haz un push, y obseva los resultados en github.
+
+## Alejandro Ramírez Ramos
+Necesitamos crear un repositorio para hacer esta actividad de clase que ha mandado Luismi. Para ello:
+
+-Crea un repositorio en github llamado PREGUNTAS-IMPOSIBLES
+-Clona el repositorio en tu sistema local
+-Crea un archivo .gitignore con las mismas limitaciones de los repositorios anteriores hechos en clase
+-Crea un "README.md" en caso de que haya que anunciar algo importante para que los demás lo vean, haz un commit y sube
+lo que tengas a github.
+-Crea un "Formato ENUNCIADO.md" donde pongas un ejemplo del ejercicio que hay que hacer de git
+y un "Formato TEST.md" donde pongas un ejemplo de las preguntas test que hay que hacer.
+-Por último, crea un archivo "TEST.md" donde pongas tus 3 preguntas test sobre git con 4 respuestas cada una
+y un "ENUNCIADO.md" para subir un ejercicio completo sobre la creación de un repositorio de git.
+-Guarda el repositorio en local, súbelo actualizado a github y avisa a los de la clase para que se descarguen 
+el repositorio en su dispositivo local, cuelguen sus ejercicios y vayan guardando los cambios y subiéndolos a github.
