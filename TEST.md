@@ -273,3 +273,24 @@ Fernando Carrascal Gallego
 	*Descartar los cambios existentes en el repositorio
 	*Ninguno de los tres métodos es recomendable
 
+Sergio Ortiz Molde
+
+
+1. ¿Cuáles son los tres estados de git?
+	a.Git directory, Staging area y Working directory
+	b.Working directory, Bug Fixing, Bug Logs, Staging area.
+	c.Setting properties, Workspace, Git directory.
+	d.Ninguna de las respuestas es correcta.
+
+2. ¿Qué comandos hay que realizar para subir un cambio a un repositorio remoto?
+	a.“git add .”, “git commit”, “git push”.
+	b.“git log”, “git add .”, “git commit”.
+	c.“git add .”, “git commit”, “git pull”.
+	d.Ninguna opción es correcta.
+
+3. ¿Qué es necesario tener para poder clonar un repositorio?
+	a.Un repositorio creado en la nube.
+	b.Un repositorio en local.
+	c.Tener acceso por SSH o HTML al repositorio.
+	d.Todas las respuestas son correctas.
+
