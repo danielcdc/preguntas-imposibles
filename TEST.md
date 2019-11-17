@@ -253,6 +253,27 @@ Francisco Javier Garcia Lara
 	- Para commitear sin conflicto
 	- Fue resultado de una noche de fiesta y todavía se le busca utilidad
 
+
+Antonio Joaquin Montero García
+
+1. ¿Qué comando usas para ver con detalles los "commits" hechos en un repositorio?
+	-git log -v
+	-git commit -view
+	-git status
+	-Ninguna opción es correcta.
+
+1. ¿Pueden dos usuarios operar sobre un mismo archivo a la vez?
+	-Sí, pero no es recomendable.
+	-Sí, sin ningún problema.
+	-No.
+	-Dos personas no pueden usar el mismo repositorio.
+
+3. ¿Puede una persona usar y editar mi repositorio público?
+	-Sí, añadiendo a este usuario como colaborador.
+	-Sí, solo necesita tu usuario.
+	-No, los repositorios no se comparten.
+	-Ninguna de las opciones es correcta.
+
 Fernando Carrascal Gallego
 
 1 ¿Qué comando utilizamos en Git para saber si tenemos algo que añadir a la stagging area o listo para hacer commit?
