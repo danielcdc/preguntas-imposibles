@@ -213,25 +213,25 @@ PABLO GONZÁLEZ GONZÁLEZ
 
 AINARA GIL EGEA 
 1.	¿Cómo almacena Git sus datos?
-	a)	Maneja sus datos como un conjunto de copias instantáneas de un sistema de archivos miniatura. 
-	b)	Almacena la información como una lista de cambios en los archivos. 
-	c)	Guarda nuevos documentos por cada modificación realizada por el usuario.
-	d)	Ninguna es correcta.
+	a)Maneja sus datos como un conjunto de copias instantáneas de un sistema de archivos miniatura. 
+	b)Almacena la información como una lista de cambios en los archivos. 
+	c)Guarda nuevos documentos por cada modificación realizada por el usuario.
+	d)Ninguna es correcta.
 
 2.	Git tiene tres estados principales en los que se pueden encontrar tus archivos: 
-	a)	Confirmado, modificado y preparado.
-	b)	Confirmado, cambiado y terminado.
-	c)	Preparado, cambiado y terminado.
-	d)	Modificado, preparado y final. 
+	a)Confirmado, modificado y preparado.
+	b)Confirmado, cambiado y terminado.
+	c)Preparado, cambiado y terminado.
+	d)Modificado, preparado y final. 
 
 3.	Pasos a seguir para confirmar y subir tus cambios:
-	a)	Git add .   , git commit –m , git push
-	b)	Git push , git commit –m, git add . 
-	c)	Git status, git push, git diff
-	d)	Git commit –m, git pull, git push.
+	a)Git add .   , git commit –m , git push
+	b)Git push , git commit –m, git add . 
+	c)Git status, git push, git diff
+	d)Git commit –m, git pull, git push.
 
 4.	¿Cuál es el comando para eliminar archivos?
-	a)	Git rm
-	b)	Git push
-	c)	Git log
-	d)	Git commit 
+	a)Git rm
+	b)Git push
+	c)Git log
+	d)Git commit 
