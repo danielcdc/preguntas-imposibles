@@ -54,3 +54,6 @@ en la búsqueda de información.
 -COMITEANDOLO Y PUSHEANDOLO NEUVAMENTE
 - SE DEBE MODIFICAR EL .GITIGNORE CON EL MANDADO A UTILIZAR POR LUISMI Y EL README.MD PARA AÑADIR INFORMACIÓN DEL REPOSITORIO
 -POR CADA MODIFICACIÓN SE DEBE COMMITEAR Y PUSHEAR
+
+Carlos González Lozano
+Crea  un repositorio remoto, clonalo en un nuevo directorio, incluye un gitignore que excluya los jpg, y añade al repositorio un jpg y un png, finalmente haz un push, y obseva los resultados en github.
