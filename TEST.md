@@ -91,3 +91,28 @@ Jorge Alonso López
 *GIT CAMBIA EL NOMBRE A UNO DE LOS ARCHIVOS
 *GIT PRIORIZA EL DEL DUEÑO DEL REPOSITORIO
 *AMBOS QUEDAN ELIMINADOS 
+
+##Carlos González Lozano
+1.¿Qué comando se usa para subir las modificaciones al repositorio remoto?
+V-git push
+-git pull
+-git putt
+-git add
+
+2.¿Cómo se añaden todos los archivos no trackeados al repositorio?
+V-git add .
+-git add *
+-git add $
+-git add -all
+
+3.¿Què formato hay que poner en git log --pretty= para obtener email del confirmador?
+V-%ce
+-%ae
+-$ce
+-$ae
+
+4.¿Cómo se ve tu configuracion de git?
+V-git config --list
+-git config -all
+-git config --global
+-git config -global
