@@ -1,16 +1,4 @@
-## BEATRIZ GARCIA RUIZ-ADAME
 
-Ejercicio
-
-- Crear repositorio nuevo en GitHub
-- Dar permiso como colaborador a tu compañero/a
-- Crea un fichero README.md, añadiendo algo de información sobre el repositorio.
-- Añade al repositorio un fichero .gitignore, con el contenido de https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore o alguno similar.
-- El claborador debe crear una carpeta con el nombre de BASE DE DATO
-- El propietario debe añadir a la carpeta BASE DE DATOS un tres archivos.txt con los siguientes nombres: Indice, Unidad3 y Unidad4
-- El propietario debe elaborar el archivo indice, en donde debe aparecer el indice del tamario del módulo de BASE DE DATOS
-- El colaborador debe elaborar el archvo Unidad3 y Unidad4, debe elaborar un resumen de ambas unidades
-- El propietaio debe añadir al resumen Unidad3 y Unidad4 ejemplos 
 
 ## Antonio González Rodríguez
 
@@ -201,6 +189,7 @@ Fco Javier Mateos Guillén
 - Crea ahora el fichero README.md y en él escribe  lo siguiente: "Ejercicio de Git propuesto por mis compañeros. En este repositorio hay una carpeta que contiene un fichero .txt con el nombre de la persona que realizó el ejercicio"
 - Para finalizar confirma los cambios y pushea.
 NOTA: LOS COMMIT DEBEN SER APROPIADOS DEPENDIENDO DE LA CANTIDAD DE TEXTO INTRODUCIDA EN CADA UNO (NO PUEDEN SER LOS DOS EL MISMO TIPO DE COMMIT).
+<<<<<<< HEAD
 
 
 María Macías Padilla
@@ -220,6 +209,17 @@ k) Confirma los cambios finales.
    NOTA: Cada vez que confirmes, debe pushear los cambios al repositorio.
 
 
+## BEATRIZ GARCIA RUIZ-ADAME
 
+Ejercicio
 
+- Crear repositorio nuevo en GitHub
+- Dar permiso como colaborador a tu compañero/a
+- Crea un fichero README.md, añadiendo algo de información sobre el repositorio.
+- Añade al repositorio un fichero .gitignore, con el contenido de https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore o alguno similar.
+- El claborador debe crear una carpeta con el nombre de BASE DE DATO
+- El propietario debe añadir a la carpeta BASE DE DATOS un tres archivos.txt con los siguientes nombres: Indice, Unidad3 y Unidad4
+- El propietario debe elaborar el archivo indice, en donde debe aparecer el indice del tamario del módulo de BASE DE DATOS
+- El colaborador debe elaborar el archvo Unidad3 y Unidad4, debe elaborar un resumen de ambas unidades
+- El propietaio debe añadir al resumen Unidad3 y Unidad4 ejemplos 
 
