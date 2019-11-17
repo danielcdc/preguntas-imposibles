@@ -437,3 +437,23 @@ Alejandro Vidal Marín
 		2. Hace copia diferenciales.
 		3. Git es igual que los VCSs anteriores pero con algunas pocas mejoras.
 		4. Guarda un nuevo fichero siempre que se hace una nueva versión
+
+#Javier García-Galera Rodríguez
+
+1. ¿Dónde se envían los archivos al ejecutar el comando "git add ."?
+	- A la Staging Area
+	- Al repositorio
+	- A la CMD
+	- Ninguna de las anteriores es correcta 
+
+2. ¿Qué comando utilizaos para clonar un repositorio?
+	- git clone
+	- git push
+	- git pull
+	- git log
+
+3. ¿Qué comando usamos para mandar los cambios al repositorio de GitHub?
+	- Git push
+	- Git pull
+	- Git status
+	- Git clone
