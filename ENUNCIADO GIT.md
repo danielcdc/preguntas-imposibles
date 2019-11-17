@@ -116,3 +116,16 @@ Haremos un resumen de todo lo que llevamos de git siguiendo estos pasos:
 	4) Crea un archivo .md y redacta ahí la lista de comandos que te sabes de memoria *SIN MIRAR EN LAS CHULETAS*
 	5) Escribe en el README un resumen de lo que has hecho en este ejercicio
 		ATENTION: cada vez que pases de un paso, debes realizar  un commit and push, siempre que se pueda. 
+
+
+AINARA GIL EGEA 
+
+Para hacer este ejercicio, necesitas ponerte de acuerdo con tu compañero de al lado. 
+a)	Crea un repositorio nuevo llamado Números.
+b)	Ponte de acuerdo con tu compañero y dale permiso como colaborador.
+c)	Uno de los dos deberá crear un proyecto Java con eclipse con un programa que al meter un número nos diga si es par o impar.
+d)	El compañero tendrá que añadirle otras funciones como si el número es positivo o negativo.
+e)	Crear el fichero README.md añadiéndole información adecuada sobre el programa y un fichero .gitignore, con el contenido de 
+https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore o alguno similar.
+Cada vez que creéis y modifiquéis un documento debéis confirmar los cambios con un mensaje adecuado y subirlos.
+
