@@ -247,3 +247,11 @@ Alejandro Vidal Marín
 -Añade un fichero o proyecto en cada carpeta. Cada vez que añadas uno, deberas añadirlo al repositorio de GitHub.
 -En el commit final se debe añadir una explicación básica de los elementos añadidos.
  * Cada vez que confirmes, debe pushear los cambios al repositorio.
+
+#Adrián Diaz Santos
+-Crea un repositorio privado con .gitignore dedicado a repositorios de java. Deberá titularse "ProyectoDAM"
+-Clonalo y crea el fichero README.md desde la terminal
+-Crear un proyecto en eclipse titulado "ClasePrimeroDAM" y desarrolla un programa que cuente el número de suspensos justo cuando lea 2 o mas notas.
+-Sube los cambios
+-Modifica el archivo README.md con un mensaje poco currado jejeje
+-Sube los cambios.
