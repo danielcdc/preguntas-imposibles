@@ -457,21 +457,21 @@ Alejandro Vidal Marín
 	- Git pull
 	- Git status
 
-#Adrián Diaz Santos
+##Adrián Diaz Santos
 
-##1.- Para commitear cambios de con una simple linea usamos..
+1.- Para commitear cambios de con una simple linea usamos..
 	-git commit -m
 	-git commit -m "linea de commit"
 	-git commit
 	-git comitt -m "linea de comitt"
 
-##2.- Cuando tenemos que trabajar en un repositorio simultaneo de github (en el que ya has trabajado anteriormente), lo primero que debemos de hacer es...
+2.- Cuando tenemos que trabajar en un repositorio simultaneo de github (en el que ya has trabajado anteriormente), lo primero que debemos de hacer es...
 	-git clone
 	-git pull
 	-git push
 	-ninguna de las anteriores es correcta
 
-##3.- Para ver todos el estado de repositorio en el que se encuentra el repositorio, debemos hacer...
+3.- Para ver todos el estado de repositorio en el que se encuentra el repositorio, debemos hacer...
 	-git log
 	-ninguna de las anteriores es correcta
 	-git status
